@@ -1,4 +1,1 @@
-CSharpPart2Homeworks
-====================
-
-CSharpPart2Homeworks
+View my blog at : https://yordanbonev.wordpress.com/
